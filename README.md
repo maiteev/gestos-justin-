@@ -1,5 +1,5 @@
 # Gestos Justin Bierber
-
+Sistema de visión artificial en Python y MediaPipe que identifica 6 fotos de Justin Bieber en tiempo real mediante el reconocimiento de gestos manuales.
 ## tarea-02
 
 - **Anto Acevedo** 
